@@ -7,3 +7,5 @@ The hinge by MSiemons was changed so the tophat can easily be taken off or hinge
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MSiemons/TophatHingeV0.1
 
 Made a handle to pickup based on the doorhandle of the original design. Should go on like this one by Ch4rlesB https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ch4rlesB/V0_Handles_Slim
+
+Ziptie/tie-wrap brackets that push in and twist to lock. Holes in 2 directions for perpendicular or parallel fixing of cables.
