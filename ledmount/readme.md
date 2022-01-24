@@ -1,7 +1,7 @@
 Ledmounts for the 8 RGB led PCB's from china.
 They can be screwed down using m2.5 screws.
 There is a solderhelper to help solder the 2 pcb's together with the right spacing.
-The wire to the DOUT is fed from the end to the beginnen of the ledmount.
+The wire to the DOUT is fed from the end to the beginning of the ledmount.
 Tuck the wire under the incoming wire.
 Beware ! First put on the endcap before soldering !
 If you don't want the colors to be visisble you could add some black heatshrink also before soldering.
