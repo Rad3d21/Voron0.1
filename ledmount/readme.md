@@ -1,6 +1,7 @@
 Ledmounts for the 8 RGB led PCB's from china.
 They can be screwed down using m2.5 screws.
 There is a solderhelper to help solder the 2 pcb's together with the right spacing.!
+https://github.com/Rad3d21/Voron0.1/blob/main/ledmount/jig-soldering.jpg
 
 The wire to the DOUT is fed from the end to the beginning of the ledmount.
 Tuck the wire under the incoming wire.
@@ -14,4 +15,5 @@ The power can be pulled from the 5V/GND of the raspberry pi or directly from 5V.
 In the WLED settings the number of leds is 32 and the segments are 1-16 and 17-32 with mirror checked on one.
 
 The cables are pluggable to be able to take the backpanel off without disconnecting anything else.
-The holes in the backpanel are big enough to pull the connectors through.
+The holes in the backpanel are big enough to pull the connectors through. https://github.com/Rad3d21/Voron0.1/blob/main/ledmount/IMG_20220122_170136.jpg
+
