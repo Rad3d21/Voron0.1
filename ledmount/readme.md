@@ -1,13 +1,14 @@
 Ledmounts for the 8 RGB led PCB's from china.
-They can be screwed down using m2.5 screws.
+They can be screwed down using BHCS m2.5 x 6 screws.
 There is a solderhelper to help solder the 2 pcb's together with the right spacing.!
 https://github.com/Rad3d21/Voron0.1/blob/main/ledmount/jig-soldering.jpg
 
 The wire to the DOUT is fed from the end to the beginning of the ledmount.
 Tuck the wire under the incoming wire.
-Beware ! First put on the endcap before soldering !
+<B>BEWARE ! First put on the endcap before soldering !</B>
 If you don't want the colors to be visisble you could add some black heatshrink also before soldering.
 (or use a black marker or paint)
+Front and back can be screwed on with BHCS m3 x 6
 
 The connections are made to the neopixel 1 and neopixel 2 ports (4pin) on the umbilical PCB from timmit99
 The ESP01 board is equipped with WLED and connected to neopixel in on the umbilical PCB.
