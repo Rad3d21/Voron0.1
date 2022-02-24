@@ -1,3 +1,6 @@
+First off. I'm not good at github stuff. Just trying to get something on there.
+Tips and pointers are welcome.
+
 Ledmounts for the 8 RGB led PCB's from china.
 They can be screwed down using BHCS m2.5 x 6 screws.
 There is a solderhelper to help solder the 2 pcb's together with the right spacing.!
@@ -17,4 +20,6 @@ In the WLED settings the number of leds is 32 and the segments are 1-16 and 17-3
 
 The cables are pluggable to be able to take the backpanel off without disconnecting anything else.
 The holes in the backpanel are big enough to pull the connectors through. https://github.com/Rad3d21/Voron0.1/blob/main/ledmount/IMG_20220122_170136.jpg
+
+My first design in the pictures had a single screw holding endplates. v2 has better positioning of the LED-PCBs and 2 screws holding endplates. (This is untested version)
 
