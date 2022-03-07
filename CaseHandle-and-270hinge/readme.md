@@ -6,3 +6,4 @@ Made a doorstopper to push and twist into the exstrusion under tht door to keep 
 270 hinge that makes it possible to fold the door to the side of the printer and clear the handles.
 A doorcatch to hold it in place.
 I have magnets in both the plexiglass and the handle so the handle can be taken off.
+![image](https://user-images.githubusercontent.com/43404751/157104983-155296cc-17a2-4f35-b954-c7dfa13a5e6d.png)
