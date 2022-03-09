@@ -10,4 +10,4 @@ Made a handle to pickup based on the doorhandle of the original design. Should g
 
 Ziptie/tie-wrap brackets that push in and twist to lock. Holes in 2 directions for perpendicular or parallel fixing of cables.
 
-Modifications to oldfar-t sideswipe (https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe). The lip did not fit and added ADXL moount plus enlarged the holes for the magnets.
+Modifications to oldfar-t sideswipe (https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe). The lip did not fit and added ADXL moount plus enlarged the holes for the magnets. Thinking of maybe adding brush for nozzle cleanup. Could be added to the arm.
